@@ -16,7 +16,6 @@ After loading the data, I needed to clean it up a bit. I made the following chan
 * replaced null values in 'Medal' column with 'None' which represents 'no medal'
 
 ## EDA
-I created a pieplot to realize that the majority of chocolate bars' customers in our dataset prefer to buy offline. Over 80% of sales are offline sales with just nearly 20% of online sales. From a lineplot of Sales vs Week it is clear that the trend is increasing, meaning that we have more and more sales as time passes. I could also spot a trend - during the last week of each year, sales decrease to increase again at the beginning of new year.
 
 Some of the insights were about finding out:
 * The top countries that received the most medals in 21st century,
